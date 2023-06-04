@@ -19,5 +19,5 @@
   
  <div>
  <h3>🎓Certificado de Conclusão de Curso:</h3>
-  <a href="">EM ANDAMENTO...</a>
+  <a href="https://www.origamid.com/certificate/6eff366b">CERTIFICADO</a>
  </div>
